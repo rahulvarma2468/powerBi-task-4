@@ -121,3 +121,5 @@ This adds a column to the dataset containing predicted sales values based on adv
 Incorporating Python or R scripts into Power BI extends its analytical power significantly. Whether you're a data scientist needing complex statistical modeling or a business analyst looking to create unique visualizations, scripting enables you to turn Power BI into a comprehensive, end-to-end analytics platform. With a little setup and the right code, your dashboards can become smarter, more dynamic, and visually compelling—bridging the gap between raw data and actionable insight.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d54afae1-7c86-42b2-a5c4-49a9f9849f60)
